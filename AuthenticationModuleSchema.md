@@ -4,6 +4,10 @@ This document describes the database schema used for **Javeats Lite** authentica
 It covers the purpose of each table and highlights important **edge cases** to consider.
 
 ---
+![This is the simplified ERD for the Authentication Module](SQL_ERD.png)
+
+---
+![This is the ERD for the Authentication Module](ERD.svg)
 
 ## 📑 Table Descriptions
 
